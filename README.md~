@@ -1,1 +1,19 @@
-# Interfaces-Java
+# 🚗 Car Rental System (Java)
+
+## 📌 About
+
+Simple Java project created to practice **interfaces** and **Object-Oriented Programming (OOP)** concepts.
+
+The system calculates the rental price based on time and applies tax using an interface.
+
+---
+
+## 🧠 Concepts Used
+
+- Interfaces  
+- OOP  
+- Encapsulation  
+- Date/Time with `LocalDateTime`  
+
+---
+
